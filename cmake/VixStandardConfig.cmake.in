@@ -1,0 +1,15 @@
+# VixStandardConfig.cmake.in
+#
+# Copyright 2026, Gaspard Kirira.
+# https://github.com/vixcpp/standard
+#
+# Licensed under the Apache License, Version 2.0.
+# See the LICENSE file in the project root for license information.
+#
+# Vix.cpp Standard
+
+@PACKAGE_INIT@
+
+include("${CMAKE_CURRENT_LIST_DIR}/VixStandardTargets.cmake")
+
+check_required_components(VixStandard)
