@@ -130,4 +130,4 @@ When a proposed feature does not clearly fit those rules, it should not be added
 
 ## License
 
-Vix Standard is licensed under the Apache License 2.0. See [`LICENSE`](LICENSE).
+Vix Standard is licensed under the MIT License. See [`LICENSE`](LICENSE).
